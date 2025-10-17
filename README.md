@@ -1,9 +1,9 @@
-# Jim's Team Tracker
+# Relationship Manager
 
 A modern, web-based team and project management system - your Microsoft Access replacement for the 21st century!
 
-**Live App:** https://team-tracker-r3z0mrjz1-jbf-2539-e1ec6bfb.vercel.app
-**GitHub:** https://github.com/franzenjb/team-tracker
+**Live App:** TBD
+**GitHub:** https://github.com/franzenjb/relationship-manager
 **Built:** October 2025
 
 ## Quick Reference
@@ -285,7 +285,7 @@ For issues or questions:
 
 ### What This Project Is
 
-Jim's Team Tracker is a full-stack web application that replaces Microsoft Access for team and project management. It's accessible from any device with a web browser and allows multiple people to collaborate in real-time.
+Relationship Manager is a full-stack web application that replaces Microsoft Access for team and project management. It's accessible from any device with a web browser and allows multiple people to collaborate in real-time.
 
 ### The Complete Technology Stack
 
